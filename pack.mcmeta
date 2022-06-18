@@ -1,0 +1,18 @@
+{
+    "pack": {
+      "pack_format": 9,
+      "description": "Arena pack - Арэна паккі"
+    },
+    "language": {
+      "cl_la": {
+        "name": "Cloudic (Latin)",
+        "region": "CLOUDCRAFT/LATIN",
+        "bidirectional": false
+      },
+      "cl_cy": {
+        "name": "Cloudic (Cyrillic)",
+        "region": "CLOUDCRAFT/CYRILLIC",
+        "bidirectional": false
+      }
+    }
+}
